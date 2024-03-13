@@ -1,4 +1,4 @@
-# File QA Bot
+# Simple Directory Reader
 In this project, I tried to create a vector search bot on my local file system.
 The code used is from [here](https://docs.llamaindex.ai/en/stable/examples/data_connectors/simple_directory_reader.html)
 
