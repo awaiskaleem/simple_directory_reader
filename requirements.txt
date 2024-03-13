@@ -1,0 +1,6 @@
+# Add your project dependencies here
+
+deeplake
+llama_index
+textwrap3
+python-dotenv
