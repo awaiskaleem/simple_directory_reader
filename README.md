@@ -4,5 +4,10 @@ The code used is from [here](https://docs.llamaindex.ai/en/stable/examples/data_
 
 ## Steps to follow:
 1. Grab your OPENAI_API_KEY from openai.com >> API Keys >> Generate Keys
-2. Make sure you have pip/python and run `pip install -r requirements.txt`
-3. Follow cells executions in `simple-directory-reader.ipynb`
+2. Make sure you have uv/pip/python and run following within project folder
+   ```
+     uv venv .venv --python=3.10
+     source .venv/bin/activate
+     uv pip install -r requirements.txt
+   ```
+4. Follow cells executions in `simple-directory-reader.ipynb`
